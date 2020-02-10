@@ -1,0 +1,21 @@
+* {
+    box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
+
+}
+body{
+    margin:0px;
+}
+
+img {
+    height:100%;
+    width: 100%;
+    z-index: -1;
+}
+
+div.redt{
+    height:100px;
+    width: 100px;
+    float: right;
+    border: solid 2px red;
+}
