@@ -15,11 +15,11 @@
                 <div class="questionnaire">QUESTIONNAIRE</div>
         </div>
         <div class="leaderboard1">
-            <img src="leaderboard.jpg"/>
+            <img src="img/leaderboard.jpg"/>
             <div class="leader"><h1> THE LEADERBOARD</h1></div>
         </div>
         <div class="dawn">
-            <img src="dawn.jpeg"/>
+            <img src="img/dawn.jpeg"/>
             <div class="dawn1"><h1> BREEZE OF DAWN</h1></div>
         </div>
         <div class="noon"></div>
